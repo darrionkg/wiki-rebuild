@@ -9,7 +9,7 @@
 }
 
 .sidebar {
-  width: 190px;
+  width: 170px;
   height: 2000px;
   border: 2px solid #e6edf7;
   float: left;
@@ -19,6 +19,12 @@
 .sidebar ul {
     list-style-type: none;
     color: blue;
+}
+
+.sidebar img {
+  width: 140px;
+  height: auto;
+  margin: 10px;
 }
 
 .panel {
